@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome To My Learning
 
-I'm glad you are here. I plan to talk about ...
+I am learning how this whole process works and will hopefully get far.
